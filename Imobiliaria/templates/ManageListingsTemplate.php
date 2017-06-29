@@ -1,0 +1,5 @@
+
+<?=$NewOffer?><BR>
+
+<?=$ListingTable?>
+
