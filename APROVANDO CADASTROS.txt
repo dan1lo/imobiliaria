@@ -1,0 +1,23 @@
+Aprovando cadastros:
+
+1) Quando um usuário se cadastra no sistema ele é redirecionado para a tela
+de controle de pacotes, onde ele irá escolher um plano/pacote (criados por você)
+que mais combina com a situação dele.
+2) Assim que o usuário escolher o pacote e clicar em ENVIAR, você receberá
+uma mensagem automática em seu e-mail avisando que o usuário solicitou
+tal pacote.
+3) No caso de você preferir usar apenas o modo Depósito Bancário, você deve
+enviar um e-mail para o usuário que solicitou o pacote com seus dados para
+que este efetue o depósito na sua conta. Junto a esta resposta peça para que
+o usuário solicitador do pacote envie a você um e-mail de resposta com os
+dados do depósito bancário assim que este o efetuar.
+4) Após receber os dados do depósito, confirme-o e siga o 5º passo.
+5) Após ter confirmado o depósito da importância é hora de LIBERAR O PLANO
+SOLICITADO PELO USUÁRIO, para isso siga o 6º passo.
+6) Para liberar o plano para o usuário entre no painel de 
+administração (http://www.seusite.com/admin), no menu clique em LISTA DE AGENTES,
+clique sobre o nome do agente/usuário que efetuou o pagamento, agora clique em EDITAR,
+encontre a opção NOVO NÍVEL DO PACOTE e selecione o pacote que este usuário solicitou,
+clique em SALVAR e pronto.
+7) Não se esqueça de responder o e-mail do usuário pagante (aquele que ele enviou o
+comprovante de depósito) avisando que sua conta já está ativa.

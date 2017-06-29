@@ -1,0 +1,1 @@
+<br><br><br><span class=ReadMore><center>Sua mensagem foi enviada!</span><br><br><a class=RedLink href="anuncio.php?id=<?=$ListingID?>">voltar</a></center>

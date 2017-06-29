@@ -1,0 +1,15 @@
+Configurando e alterando as propriedades do menu esquerdo:
+
+:::::::::::::::::::::::::::::Abrindo o arquivo:::::::::::::::::::::::::::::
+
+Entre na pasta onde está instalado
+seu e-Mobiliaria e procure o arquivo de nome "configurar_menu.js", abra este
+arquivo clicando com o botão direito do mouse sobre ele, selecione a opção
+"Abrir Com" em seguida se estiver na lista selecione Bloco de Notas ou um editor de sua preferência.
+
+:::::::::::::::::::::::::::::Alterando o arquivo:::::::::::::::::::::::::::
+
+Com o arquivo "configurar_menu.js" aberto você verá as instruções de onde deve alterar as propriedades.
+Para alterar os links do menu, encontre esta linha:
+ssmItems[1]=["SEU SITE AQUI", "http://www.animabusca.com", "_blank"] 
+                       NOME DO SITE      ENDEREÇO DO SITE               ONDE VAI ABRIR
